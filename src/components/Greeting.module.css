@@ -1,0 +1,27 @@
+.divs {
+  text-align: center;
+}
+
+.divs h2 {
+  color: blue;
+  font-size: larger;
+}
+
+.divs p {
+  color: red;
+}
+
+.bt {
+  padding: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: purple;
+  color: white;
+  border-radius: 5px;
+  border-color: red;
+}
+
+.bt:hover{
+  background-color: rgb(238, 255, 0);
+  color: rgb(34, 10, 245);
+}
